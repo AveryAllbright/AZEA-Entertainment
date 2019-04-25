@@ -62,19 +62,23 @@ a {
 td {
     width: 50%;
     text-align: center;
-    padding-bottom: 10%;
+    padding-top: 5%;
     vertical-align: bottom;
-    
+
 }
 
 table {
     border: none;
-    padding-top: 4%;
+
 }
 
 #Links {
     display: flex;
     width: 100%;
+}
+
+#Header {
+    text-align: center;
 }
 
 #FirstMega {
@@ -173,6 +177,7 @@ a.Caption {
 
 a#mail {
     display: inline;
+    font-size: 16px;
 }
 
 
